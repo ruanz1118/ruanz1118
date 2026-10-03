@@ -1,4 +1,4 @@
-# Hi, I'm Zhaolong Ruan
+# Hi, I'm Zhaolong(John) Ruan
 
 I'm an Electronic and Computer Engineering student at Trinity College Dublin with an interest in embedded systems, FPGA design, computer vision, AI and software engineering.
 
