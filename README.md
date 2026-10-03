@@ -32,10 +32,6 @@ Personal project developing a two-board STM32F103 communication system using hal
 
 Personal computer vision project using YOLOv8 and PyTorch to detect cigarettes, flames, smoke and people. Reviewed and corrected approximately 1,150 AI-assisted annotations and improved cigarette AP50 from about 0.49 to 0.68.
 
-### Robotic Buggy
-
-Academic project developing an Arduino-based autonomous buggy using infrared and ultrasonic sensors for line following, obstacle detection and motor control.
-
 ## Experience
 
 ### AI Intern — Keysensing
